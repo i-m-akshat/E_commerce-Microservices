@@ -1,0 +1,11 @@
+A:\Microservice Projects\Ecommerce.ProductApiSolution\ProductAPI.Domain\bin\Debug\net9.0\ProductAPI.Domain.deps.json
+A:\Microservice Projects\Ecommerce.ProductApiSolution\ProductAPI.Domain\bin\Debug\net9.0\ProductAPI.Domain.dll
+A:\Microservice Projects\Ecommerce.ProductApiSolution\ProductAPI.Domain\bin\Debug\net9.0\ProductAPI.Domain.pdb
+A:\Microservice Projects\Ecommerce.ProductApiSolution\ProductAPI.Domain\obj\Debug\net9.0\ProductAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+A:\Microservice Projects\Ecommerce.ProductApiSolution\ProductAPI.Domain\obj\Debug\net9.0\ProductAPI.Domain.AssemblyInfoInputs.cache
+A:\Microservice Projects\Ecommerce.ProductApiSolution\ProductAPI.Domain\obj\Debug\net9.0\ProductAPI.Domain.AssemblyInfo.cs
+A:\Microservice Projects\Ecommerce.ProductApiSolution\ProductAPI.Domain\obj\Debug\net9.0\ProductAPI.Domain.csproj.CoreCompileInputs.cache
+A:\Microservice Projects\Ecommerce.ProductApiSolution\ProductAPI.Domain\obj\Debug\net9.0\ProductAPI.Domain.dll
+A:\Microservice Projects\Ecommerce.ProductApiSolution\ProductAPI.Domain\obj\Debug\net9.0\refint\ProductAPI.Domain.dll
+A:\Microservice Projects\Ecommerce.ProductApiSolution\ProductAPI.Domain\obj\Debug\net9.0\ProductAPI.Domain.pdb
+A:\Microservice Projects\Ecommerce.ProductApiSolution\ProductAPI.Domain\obj\Debug\net9.0\ref\ProductAPI.Domain.dll

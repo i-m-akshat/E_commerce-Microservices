@@ -1,0 +1,17 @@
+A:\Microservice Projects\Ecommerce.ProductApiSolution\ProductAPI.Application\bin\Debug\net9.0\ProductAPI.Application.deps.json
+A:\Microservice Projects\Ecommerce.ProductApiSolution\ProductAPI.Application\bin\Debug\net9.0\ProductAPI.Application.dll
+A:\Microservice Projects\Ecommerce.ProductApiSolution\ProductAPI.Application\bin\Debug\net9.0\ProductAPI.Application.pdb
+A:\Microservice Projects\Ecommerce.ProductApiSolution\ProductAPI.Application\bin\Debug\net9.0\Ecommerce.SharedLibrary.dll
+A:\Microservice Projects\Ecommerce.ProductApiSolution\ProductAPI.Application\bin\Debug\net9.0\ProductAPI.Domain.dll
+A:\Microservice Projects\Ecommerce.ProductApiSolution\ProductAPI.Application\bin\Debug\net9.0\Ecommerce.SharedLibrary.pdb
+A:\Microservice Projects\Ecommerce.ProductApiSolution\ProductAPI.Application\bin\Debug\net9.0\ProductAPI.Domain.pdb
+A:\Microservice Projects\Ecommerce.ProductApiSolution\ProductAPI.Application\obj\Debug\net9.0\ProductAPI.Application.csproj.AssemblyReference.cache
+A:\Microservice Projects\Ecommerce.ProductApiSolution\ProductAPI.Application\obj\Debug\net9.0\ProductAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+A:\Microservice Projects\Ecommerce.ProductApiSolution\ProductAPI.Application\obj\Debug\net9.0\ProductAPI.Application.AssemblyInfoInputs.cache
+A:\Microservice Projects\Ecommerce.ProductApiSolution\ProductAPI.Application\obj\Debug\net9.0\ProductAPI.Application.AssemblyInfo.cs
+A:\Microservice Projects\Ecommerce.ProductApiSolution\ProductAPI.Application\obj\Debug\net9.0\ProductAPI.Application.csproj.CoreCompileInputs.cache
+A:\Microservice Projects\Ecommerce.ProductApiSolution\ProductAPI.Application\obj\Debug\net9.0\ProductA.93279703.Up2Date
+A:\Microservice Projects\Ecommerce.ProductApiSolution\ProductAPI.Application\obj\Debug\net9.0\ProductAPI.Application.dll
+A:\Microservice Projects\Ecommerce.ProductApiSolution\ProductAPI.Application\obj\Debug\net9.0\refint\ProductAPI.Application.dll
+A:\Microservice Projects\Ecommerce.ProductApiSolution\ProductAPI.Application\obj\Debug\net9.0\ProductAPI.Application.pdb
+A:\Microservice Projects\Ecommerce.ProductApiSolution\ProductAPI.Application\obj\Debug\net9.0\ref\ProductAPI.Application.dll
