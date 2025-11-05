@@ -3,10 +3,26 @@
   "WorkspaceRootPath": "A:\\Microservice Projects\\Ecommerce.ProductApiSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8944BA0E-A5E7-A44E-C02A-3F1368577666}|..\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary.csproj|a:\\microservice projects\\ecommerce.sharedlibrary\\ecommerce.sharedlibrary\\middleware\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A31466EE-FA5A-4BEB-8B04-9D8F31E0B91B}|ProductAPI.Presentation\\ProductAPI.Presentation.csproj|a:\\microservice projects\\ecommerce.productapisolution\\productapi.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A31466EE-FA5A-4BEB-8B04-9D8F31E0B91B}|ProductAPI.Presentation\\ProductAPI.Presentation.csproj|solutionrelative:productapi.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A31466EE-FA5A-4BEB-8B04-9D8F31E0B91B}|ProductAPI.Presentation\\ProductAPI.Presentation.csproj|a:\\microservice projects\\ecommerce.productapisolution\\productapi.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A31466EE-FA5A-4BEB-8B04-9D8F31E0B91B}|ProductAPI.Presentation\\ProductAPI.Presentation.csproj|solutionrelative:productapi.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A81D55-5590-4114-9FB8-8FECA2740A7E}|ProductAPI.Infrastructure\\ProductAPI.Infrastructure.csproj|a:\\microservice projects\\ecommerce.productapisolution\\productapi.infrastructure\\repositories\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43A81D55-5590-4114-9FB8-8FECA2740A7E}|ProductAPI.Infrastructure\\ProductAPI.Infrastructure.csproj|solutionrelative:productapi.infrastructure\\repositories\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A81D55-5590-4114-9FB8-8FECA2740A7E}|ProductAPI.Infrastructure\\ProductAPI.Infrastructure.csproj|a:\\microservice projects\\ecommerce.productapisolution\\productapi.infrastructure\\data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43A81D55-5590-4114-9FB8-8FECA2740A7E}|ProductAPI.Infrastructure\\ProductAPI.Infrastructure.csproj|solutionrelative:productapi.infrastructure\\data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8944BA0E-A5E7-A44E-C02A-3F1368577666}|..\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary.csproj|a:\\microservice projects\\ecommerce.sharedlibrary\\ecommerce.sharedlibrary\\middleware\\listentoonlyapigateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8944BA0E-A5E7-A44E-C02A-3F1368577666}|..\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary.csproj|a:\\microservice projects\\ecommerce.sharedlibrary\\ecommerce.sharedlibrary\\middleware\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8944BA0E-A5E7-A44E-C02A-3F1368577666}|..\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary.csproj|a:\\microservice projects\\ecommerce.sharedlibrary\\ecommerce.sharedlibrary\\dependencyinjection\\sharedservicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -25,10 +41,6 @@
       "RelativeMoniker": "D:0:0:{A31466EE-FA5A-4BEB-8B04-9D8F31E0B91B}|ProductAPI.Presentation\\ProductAPI.Presentation.csproj|solutionrelative:productapi.presentation\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43A81D55-5590-4114-9FB8-8FECA2740A7E}|ProductAPI.Infrastructure\\ProductAPI.Infrastructure.csproj|a:\\microservice projects\\ecommerce.productapisolution\\productapi.infrastructure\\repositories\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43A81D55-5590-4114-9FB8-8FECA2740A7E}|ProductAPI.Infrastructure\\ProductAPI.Infrastructure.csproj|solutionrelative:productapi.infrastructure\\repositories\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8282F940-D77F-4D8D-A49B-BDF08343DEFE}|ProductAPI.Application\\ProductAPI.Application.csproj|a:\\microservice projects\\ecommerce.productapisolution\\productapi.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8282F940-D77F-4D8D-A49B-BDF08343DEFE}|ProductAPI.Application\\ProductAPI.Application.csproj|solutionrelative:productapi.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,18 +55,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A31466EE-FA5A-4BEB-8B04-9D8F31E0B91B}|ProductAPI.Presentation\\ProductAPI.Presentation.csproj|a:\\microservice projects\\ecommerce.productapisolution\\productapi.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A31466EE-FA5A-4BEB-8B04-9D8F31E0B91B}|ProductAPI.Presentation\\ProductAPI.Presentation.csproj|solutionrelative:productapi.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A31466EE-FA5A-4BEB-8B04-9D8F31E0B91B}|ProductAPI.Presentation\\ProductAPI.Presentation.csproj|a:\\microservice projects\\ecommerce.productapisolution\\productapi.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A31466EE-FA5A-4BEB-8B04-9D8F31E0B91B}|ProductAPI.Presentation\\ProductAPI.Presentation.csproj|solutionrelative:productapi.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43A81D55-5590-4114-9FB8-8FECA2740A7E}|ProductAPI.Infrastructure\\ProductAPI.Infrastructure.csproj|a:\\microservice projects\\ecommerce.productapisolution\\productapi.infrastructure\\data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43A81D55-5590-4114-9FB8-8FECA2740A7E}|ProductAPI.Infrastructure\\ProductAPI.Infrastructure.csproj|solutionrelative:productapi.infrastructure\\data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A31466EE-FA5A-4BEB-8B04-9D8F31E0B91B}|ProductAPI.Presentation\\ProductAPI.Presentation.csproj|a:\\microservice projects\\ecommerce.productapisolution\\productapi.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A31466EE-FA5A-4BEB-8B04-9D8F31E0B91B}|ProductAPI.Presentation\\ProductAPI.Presentation.csproj|solutionrelative:productapi.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -76,59 +76,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LogException.cs",
-              "DocumentMoniker": "A:\\Microservice Projects\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\Logs\\LogException.cs",
-              "RelativeDocumentMoniker": "..\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\Logs\\LogException.cs",
-              "ToolTip": "A:\\Microservice Projects\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\Logs\\LogException.cs",
-              "RelativeToolTip": "..\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\Logs\\LogException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-02T07:37:07.259Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "JWTAuthenticationScheme.cs",
-              "DocumentMoniker": "A:\\Microservice Projects\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\DependencyInjection\\JWTAuthenticationScheme.cs",
-              "RelativeDocumentMoniker": "..\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\DependencyInjection\\JWTAuthenticationScheme.cs",
-              "ToolTip": "A:\\Microservice Projects\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\DependencyInjection\\JWTAuthenticationScheme.cs",
-              "RelativeToolTip": "..\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\DependencyInjection\\JWTAuthenticationScheme.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAACQAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-02T07:35:26.414Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "ProductRepo.cs",
               "DocumentMoniker": "A:\\Microservice Projects\\Ecommerce.ProductApiSolution\\ProductAPI.Infrastructure\\Repositories\\ProductRepo.cs",
               "RelativeDocumentMoniker": "ProductAPI.Infrastructure\\Repositories\\ProductRepo.cs",
               "ToolTip": "A:\\Microservice Projects\\Ecommerce.ProductApiSolution\\ProductAPI.Infrastructure\\Repositories\\ProductRepo.cs",
               "RelativeToolTip": "ProductAPI.Infrastructure\\Repositories\\ProductRepo.cs",
-              "ViewState": "AgIAAIEAAAAAAAAAAAAAAJ4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAAI8AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-02T07:15:08.117Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SharedServiceContainer.cs",
-              "DocumentMoniker": "A:\\Microservice Projects\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
-              "RelativeDocumentMoniker": "..\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
-              "ToolTip": "A:\\Microservice Projects\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
-              "RelativeToolTip": "..\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAUwB0AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-02T05:31:58.256Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "A:\\Microservice Projects\\Ecommerce.ProductApiSolution\\ProductAPI.Presentation\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "ProductAPI.Presentation\\Controllers\\ProductsController.cs",
@@ -136,12 +97,11 @@
               "RelativeToolTip": "ProductAPI.Presentation\\Controllers\\ProductsController.cs",
               "ViewState": "AgIAADMAAAAAAAAAAAAqwEsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-02T06:02:41.085Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-02T06:02:41.085Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "GlobalExceptionHandler.cs",
               "DocumentMoniker": "A:\\Microservice Projects\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\Middleware\\GlobalExceptionHandler.cs",
               "RelativeDocumentMoniker": "..\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\Middleware\\GlobalExceptionHandler.cs",
@@ -154,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ListenToOnlyApiGateway.cs",
               "DocumentMoniker": "A:\\Microservice Projects\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\Middleware\\ListenToOnlyApiGateway.cs",
               "RelativeDocumentMoniker": "..\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\Middleware\\ListenToOnlyApiGateway.cs",
@@ -167,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "IGenericInterface.cs",
               "DocumentMoniker": "A:\\Microservice Projects\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\Interfaces\\IGenericInterface.cs",
               "RelativeDocumentMoniker": "..\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\Interfaces\\IGenericInterface.cs",
@@ -175,24 +135,86 @@
               "RelativeToolTip": "..\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\Interfaces\\IGenericInterface.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAgwCoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-02T06:55:25.305Z",
+              "WhenOpened": "2025-11-02T06:55:25.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "A:\\Microservice Projects\\Ecommerce.ProductApiSolution\\ProductAPI.Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductAPI.Presentation\\appsettings.json",
+              "ToolTip": "A:\\Microservice Projects\\Ecommerce.ProductApiSolution\\ProductAPI.Presentation\\appsettings.json",
+              "RelativeToolTip": "ProductAPI.Presentation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-02T06:23:08.837Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 3,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "A:\\Microservice Projects\\Ecommerce.ProductApiSolution\\ProductAPI.Infrastructure\\Data\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "ProductAPI.Infrastructure\\Data\\ProductDbContext.cs",
+              "ToolTip": "A:\\Microservice Projects\\Ecommerce.ProductApiSolution\\ProductAPI.Infrastructure\\Data\\ProductDbContext.cs",
+              "RelativeToolTip": "ProductAPI.Infrastructure\\Data\\ProductDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T06:55:43.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "launchSettings.json",
               "DocumentMoniker": "A:\\Microservice Projects\\Ecommerce.ProductApiSolution\\ProductAPI.Presentation\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ProductAPI.Presentation\\Properties\\launchSettings.json",
               "ToolTip": "A:\\Microservice Projects\\Ecommerce.ProductApiSolution\\ProductAPI.Presentation\\Properties\\launchSettings.json",
               "RelativeToolTip": "ProductAPI.Presentation\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-02T06:58:45.911Z"
+              "WhenOpened": "2025-11-02T06:58:45.911Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 6,
+              "Title": "SharedServiceContainer.cs",
+              "DocumentMoniker": "A:\\Microservice Projects\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
+              "RelativeDocumentMoniker": "..\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
+              "ToolTip": "A:\\Microservice Projects\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
+              "RelativeToolTip": "..\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwB0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T05:31:58.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JWTAuthenticationScheme.cs",
+              "DocumentMoniker": "A:\\Microservice Projects\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\DependencyInjection\\JWTAuthenticationScheme.cs",
+              "RelativeDocumentMoniker": "..\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\DependencyInjection\\JWTAuthenticationScheme.cs",
+              "ToolTip": "A:\\Microservice Projects\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\DependencyInjection\\JWTAuthenticationScheme.cs",
+              "RelativeToolTip": "..\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\DependencyInjection\\JWTAuthenticationScheme.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAACQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T07:35:26.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LogException.cs",
+              "DocumentMoniker": "A:\\Microservice Projects\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\Logs\\LogException.cs",
+              "RelativeDocumentMoniker": "..\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\Logs\\LogException.cs",
+              "ToolTip": "A:\\Microservice Projects\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\Logs\\LogException.cs",
+              "RelativeToolTip": "..\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\Logs\\LogException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T07:37:07.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "A:\\Microservice Projects\\Ecommerce.ProductApiSolution\\ProductAPI.Presentation\\Program.cs",
               "RelativeDocumentMoniker": "ProductAPI.Presentation\\Program.cs",
@@ -204,19 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "A:\\Microservice Projects\\Ecommerce.ProductApiSolution\\ProductAPI.Presentation\\appsettings.json",
-              "RelativeDocumentMoniker": "ProductAPI.Presentation\\appsettings.json",
-              "ToolTip": "A:\\Microservice Projects\\Ecommerce.ProductApiSolution\\ProductAPI.Presentation\\appsettings.json",
-              "RelativeToolTip": "ProductAPI.Presentation\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-02T06:23:08.837Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "ProductAPI.Infrastructure.csproj",
               "DocumentMoniker": "A:\\Microservice Projects\\Ecommerce.ProductApiSolution\\ProductAPI.Infrastructure\\ProductAPI.Infrastructure.csproj",
               "RelativeDocumentMoniker": "ProductAPI.Infrastructure\\ProductAPI.Infrastructure.csproj",
@@ -228,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "ProductDTO.cs",
               "DocumentMoniker": "A:\\Microservice Projects\\Ecommerce.ProductApiSolution\\ProductAPI.Application\\DTOs\\ProductDTO.cs",
               "RelativeDocumentMoniker": "ProductAPI.Application\\DTOs\\ProductDTO.cs",
@@ -240,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Product.cs",
               "DocumentMoniker": "A:\\Microservice Projects\\Ecommerce.ProductApiSolution\\ProductAPI.Domain\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "ProductAPI.Domain\\Entities\\Product.cs",
@@ -249,18 +259,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-02T06:22:30.308Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ProductDbContext.cs",
-              "DocumentMoniker": "A:\\Microservice Projects\\Ecommerce.ProductApiSolution\\ProductAPI.Infrastructure\\Data\\ProductDbContext.cs",
-              "RelativeDocumentMoniker": "ProductAPI.Infrastructure\\Data\\ProductDbContext.cs",
-              "ToolTip": "A:\\Microservice Projects\\Ecommerce.ProductApiSolution\\ProductAPI.Infrastructure\\Data\\ProductDbContext.cs",
-              "RelativeToolTip": "ProductAPI.Infrastructure\\Data\\ProductDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-02T06:55:43.55Z"
             }
           ]
         }

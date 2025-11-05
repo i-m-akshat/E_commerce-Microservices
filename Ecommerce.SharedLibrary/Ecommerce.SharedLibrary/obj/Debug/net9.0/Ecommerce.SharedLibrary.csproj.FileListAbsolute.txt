@@ -7,9 +7,9 @@ A:\Microservice Projects\Ecommerce.SharedLibrary\Ecommerce.SharedLibrary\obj\Deb
 A:\Microservice Projects\Ecommerce.SharedLibrary\Ecommerce.SharedLibrary\obj\Debug\net9.0\Ecommerce.SharedLibrary.AssemblyInfoInputs.cache
 A:\Microservice Projects\Ecommerce.SharedLibrary\Ecommerce.SharedLibrary\obj\Debug\net9.0\Ecommerce.SharedLibrary.AssemblyInfo.cs
 A:\Microservice Projects\Ecommerce.SharedLibrary\Ecommerce.SharedLibrary\obj\Debug\net9.0\Ecommerce.SharedLibrary.csproj.CoreCompileInputs.cache
+A:\Microservice Projects\Ecommerce.SharedLibrary\Ecommerce.SharedLibrary\obj\Debug\net9.0\Ecommerce.SharedLibrary.sourcelink.json
 A:\Microservice Projects\Ecommerce.SharedLibrary\Ecommerce.SharedLibrary\obj\Debug\net9.0\Ecommerce.SharedLibrary.dll
 A:\Microservice Projects\Ecommerce.SharedLibrary\Ecommerce.SharedLibrary\obj\Debug\net9.0\refint\Ecommerce.SharedLibrary.dll
 A:\Microservice Projects\Ecommerce.SharedLibrary\Ecommerce.SharedLibrary\obj\Debug\net9.0\Ecommerce.SharedLibrary.pdb
 A:\Microservice Projects\Ecommerce.SharedLibrary\Ecommerce.SharedLibrary\obj\Debug\net9.0\Ecommerce.SharedLibrary.genruntimeconfig.cache
 A:\Microservice Projects\Ecommerce.SharedLibrary\Ecommerce.SharedLibrary\obj\Debug\net9.0\ref\Ecommerce.SharedLibrary.dll
-A:\Microservice Projects\Ecommerce.SharedLibrary\Ecommerce.SharedLibrary\obj\Debug\net9.0\Ecommerce.SharedLibrary.sourcelink.json

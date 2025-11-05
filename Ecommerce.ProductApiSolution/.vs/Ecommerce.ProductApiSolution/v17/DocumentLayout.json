@@ -29,7 +29,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -40,6 +40,10 @@
               "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "SharedServiceContainer.cs",
@@ -47,7 +51,7 @@
               "RelativeDocumentMoniker": "..\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
               "ToolTip": "A:\\Microservice Projects\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
               "RelativeToolTip": "..\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAIwCwAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-02T05:20:34.934Z",
               "EditorCaption": ""
@@ -62,8 +66,7 @@
               "RelativeToolTip": "ProductAPI.Infrastructure\\DependencyInjection\\ServiceContainer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-02T05:17:10.715Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-02T05:17:10.715Z"
             },
             {
               "$type": "Document",
@@ -75,8 +78,7 @@
               "RelativeToolTip": "ProductAPI.Infrastructure\\Data\\ProductDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T13:37:06.938Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-31T13:37:06.938Z"
             },
             {
               "$type": "Document",
@@ -88,8 +90,7 @@
               "RelativeToolTip": "ProductAPI.Infrastructure\\Repositories\\ProductRepo.cs",
               "ViewState": "AgIAAIEAAAAAAAAAAAAkwJIAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T13:35:38.774Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-31T13:35:38.774Z"
             },
             {
               "$type": "Document",
@@ -102,10 +103,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-31T13:34:22.011Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

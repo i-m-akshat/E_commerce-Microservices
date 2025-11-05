@@ -1,4 +1,5 @@
 ﻿using OrderApi.Application.DTOs;
+using OrderApi.Application.DTOs.Conversions;
 using OrderApi.Application.Interfaces;
 using Polly.Registry;
 using System.Data;
@@ -77,10 +78,18 @@ namespace OrderApi.Application.Services
                 order.OrderedDate
                 );
         }
-
-        public Task<IEnumerable<OrderDTO>> GetOrdersByClientID(int clientID)
+        //get orders by client id 
+        public async Task<IEnumerable<OrderDTO>> GetOrdersByClientID(int clientID)
         {
-            throw new NotImplementedException();
+            //Get all clients orders
+            var orders = await _order.GetOrdersAsync(o => o.ClientID == clientID);
+            if (!orders.Any())
+            {
+                return null!;
+            }
+            //Convert from Entity to dto 
+            var (_, _orders) = OrderConversion.FromEntity(null, orders);
+            return _orders!;
         }
     }
 }
