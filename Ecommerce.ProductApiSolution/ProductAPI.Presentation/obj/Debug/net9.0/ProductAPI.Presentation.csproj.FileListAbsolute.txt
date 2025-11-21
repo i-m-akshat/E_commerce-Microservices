@@ -183,3 +183,4 @@ A:\Microservice Projects\Ecommerce.ProductApiSolution\ProductAPI.Presentation\ob
 A:\Microservice Projects\Ecommerce.ProductApiSolution\ProductAPI.Presentation\obj\Debug\net9.0\ProductAPI.Presentation.pdb
 A:\Microservice Projects\Ecommerce.ProductApiSolution\ProductAPI.Presentation\obj\Debug\net9.0\ProductAPI.Presentation.genruntimeconfig.cache
 A:\Microservice Projects\Ecommerce.ProductApiSolution\ProductAPI.Presentation\obj\Debug\net9.0\ref\ProductAPI.Presentation.dll
+A:\Microservice Projects\Ecommerce.ProductApiSolution\ProductAPI.Presentation\obj\Debug\net9.0\ProductAPI.Presentation.sourcelink.json

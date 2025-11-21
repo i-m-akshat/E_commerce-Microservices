@@ -15,3 +15,4 @@ A:\Microservice Projects\Ecommerce.ProductApiSolution\ProductAPI.Application\obj
 A:\Microservice Projects\Ecommerce.ProductApiSolution\ProductAPI.Application\obj\Debug\net9.0\refint\ProductAPI.Application.dll
 A:\Microservice Projects\Ecommerce.ProductApiSolution\ProductAPI.Application\obj\Debug\net9.0\ProductAPI.Application.pdb
 A:\Microservice Projects\Ecommerce.ProductApiSolution\ProductAPI.Application\obj\Debug\net9.0\ref\ProductAPI.Application.dll
+A:\Microservice Projects\Ecommerce.ProductApiSolution\ProductAPI.Application\obj\Debug\net9.0\ProductAPI.Application.sourcelink.json

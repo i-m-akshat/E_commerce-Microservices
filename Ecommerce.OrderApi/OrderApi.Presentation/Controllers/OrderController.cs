@@ -11,11 +11,6 @@ namespace OrderApi.Presentation.Controllers
     [ApiController]
     public class OrderController(IOrder _order,IOrderService _orderService) : ControllerBase
     {
-        //private readonly IOrder _order;
-        //public OrderController(IOrder order)
-        //{
-        //    _order = order;
-        //}
         [HttpGet]
         public async Task<ActionResult<IEnumerable<OrderDTO>>> GetOrders()
         {
@@ -60,13 +55,13 @@ namespace OrderApi.Presentation.Controllers
         }
 
         [HttpGet("details/{orderId:int}")]
-        public async Task<ActionResult<OrderDTO>> GetOrderDetailsByid(int id)
+        public async Task<ActionResult<OrderDTO>> GetOrderDetailsByid(int orderId)
         {
-            if (id <= 0)
+            if (orderId <= 0)
             {
                 return BadRequest("Invalid id");
             }
-            var orderDetails = await _orderService.GetOrderDetailsByOrderId(id);
+            var orderDetails = await _orderService.GetOrderDetailsByOrderId(orderId);
             return orderDetails != null ? Ok(orderDetails) : NotFound("No records found !");
         } 
         [HttpPost]

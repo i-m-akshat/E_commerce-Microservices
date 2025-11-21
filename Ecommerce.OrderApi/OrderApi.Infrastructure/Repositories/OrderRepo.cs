@@ -1,6 +1,5 @@
 ﻿using Ecommerce.SharedLibrary.Logs;
 using Ecommerce.SharedLibrary.Responses;
-using Microsoft.AspNetCore.DataProtection.KeyManagement.Internal;
 using Microsoft.EntityFrameworkCore;
 using OrderApi.Application.Interfaces;
 using OrderApi.Domain.Entities;

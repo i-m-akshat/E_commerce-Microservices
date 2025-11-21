@@ -11,6 +11,7 @@ namespace Ecommerce.SharedLibrary.DependencyInjection
 {
     public static class SharedServiceContainer
     {
+        //generic method
         public static IServiceCollection AddSharedServices<TContext>(this IServiceCollection _services, IConfiguration _config, string fileName) where TContext:DbContext
         {
             //add Generic Db Context 

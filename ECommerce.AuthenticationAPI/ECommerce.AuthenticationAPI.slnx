@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../Ecommerce.SharedLibrary/Ecommerce.SharedLibrary/Ecommerce.SharedLibrary.csproj" />
+  <Project Path="AuthenticationAPI.Application/AuthenticationAPI.Application.csproj" />
+  <Project Path="AuthenticationAPI.Domain/AuthenticationAPI.Domain.csproj" />
+  <Project Path="AuthenticationAPI.Infrastructure/AuthenticationAPI.Infrastructure.csproj" />
+  <Project Path="AuthenticationAPI.Presentation/AuthenticationAPI.Presentation.csproj" />
+</Solution>

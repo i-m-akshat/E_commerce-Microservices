@@ -1,0 +1,16 @@
+A:\Microservice Projects\ECommerce.AuthenticationAPI\AuthenticationAPI.Application\bin\Debug\net10.0\AuthenticationAPI.Application.deps.json
+A:\Microservice Projects\ECommerce.AuthenticationAPI\AuthenticationAPI.Application\bin\Debug\net10.0\AuthenticationAPI.Application.dll
+A:\Microservice Projects\ECommerce.AuthenticationAPI\AuthenticationAPI.Application\bin\Debug\net10.0\AuthenticationAPI.Application.pdb
+A:\Microservice Projects\ECommerce.AuthenticationAPI\AuthenticationAPI.Application\obj\Debug\net10.0\AuthenticationAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+A:\Microservice Projects\ECommerce.AuthenticationAPI\AuthenticationAPI.Application\obj\Debug\net10.0\AuthenticationAPI.Application.AssemblyInfoInputs.cache
+A:\Microservice Projects\ECommerce.AuthenticationAPI\AuthenticationAPI.Application\obj\Debug\net10.0\AuthenticationAPI.Application.AssemblyInfo.cs
+A:\Microservice Projects\ECommerce.AuthenticationAPI\AuthenticationAPI.Application\obj\Debug\net10.0\AuthenticationAPI.Application.csproj.CoreCompileInputs.cache
+A:\Microservice Projects\ECommerce.AuthenticationAPI\AuthenticationAPI.Application\obj\Debug\net10.0\AuthenticationAPI.Application.sourcelink.json
+A:\Microservice Projects\ECommerce.AuthenticationAPI\AuthenticationAPI.Application\obj\Debug\net10.0\AuthenticationAPI.Application.dll
+A:\Microservice Projects\ECommerce.AuthenticationAPI\AuthenticationAPI.Application\obj\Debug\net10.0\refint\AuthenticationAPI.Application.dll
+A:\Microservice Projects\ECommerce.AuthenticationAPI\AuthenticationAPI.Application\obj\Debug\net10.0\AuthenticationAPI.Application.pdb
+A:\Microservice Projects\ECommerce.AuthenticationAPI\AuthenticationAPI.Application\obj\Debug\net10.0\ref\AuthenticationAPI.Application.dll
+A:\Microservice Projects\ECommerce.AuthenticationAPI\AuthenticationAPI.Application\bin\Debug\net10.0\Ecommerce.SharedLibrary.dll
+A:\Microservice Projects\ECommerce.AuthenticationAPI\AuthenticationAPI.Application\bin\Debug\net10.0\Ecommerce.SharedLibrary.pdb
+A:\Microservice Projects\ECommerce.AuthenticationAPI\AuthenticationAPI.Application\obj\Debug\net10.0\AuthenticationAPI.Application.csproj.AssemblyReference.cache
+A:\Microservice Projects\ECommerce.AuthenticationAPI\AuthenticationAPI.Application\obj\Debug\net10.0\Authenti.BABD7737.Up2Date

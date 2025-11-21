@@ -10,12 +10,15 @@ A:\Microservice Projects\Ecommerce.OrderApi\OrderApi.Presentation\bin\Debug\net9
 A:\Microservice Projects\Ecommerce.OrderApi\OrderApi.Presentation\bin\Debug\net9.0\Azure.Identity.dll
 A:\Microservice Projects\Ecommerce.OrderApi\OrderApi.Presentation\bin\Debug\net9.0\Humanizer.dll
 A:\Microservice Projects\Ecommerce.OrderApi\OrderApi.Presentation\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-A:\Microservice Projects\Ecommerce.OrderApi\OrderApi.Presentation\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+A:\Microservice Projects\Ecommerce.OrderApi\OrderApi.Presentation\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
+A:\Microservice Projects\Ecommerce.OrderApi\OrderApi.Presentation\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+A:\Microservice Projects\Ecommerce.OrderApi\OrderApi.Presentation\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
 A:\Microservice Projects\Ecommerce.OrderApi\OrderApi.Presentation\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
 A:\Microservice Projects\Ecommerce.OrderApi\OrderApi.Presentation\bin\Debug\net9.0\Microsoft.Build.Locator.dll
 A:\Microservice Projects\Ecommerce.OrderApi\OrderApi.Presentation\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
 A:\Microservice Projects\Ecommerce.OrderApi\OrderApi.Presentation\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
 A:\Microservice Projects\Ecommerce.OrderApi\OrderApi.Presentation\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+A:\Microservice Projects\Ecommerce.OrderApi\OrderApi.Presentation\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
 A:\Microservice Projects\Ecommerce.OrderApi\OrderApi.Presentation\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
 A:\Microservice Projects\Ecommerce.OrderApi\OrderApi.Presentation\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
 A:\Microservice Projects\Ecommerce.OrderApi\OrderApi.Presentation\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
@@ -58,6 +61,8 @@ A:\Microservice Projects\Ecommerce.OrderApi\OrderApi.Presentation\bin\Debug\net9
 A:\Microservice Projects\Ecommerce.OrderApi\OrderApi.Presentation\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
 A:\Microservice Projects\Ecommerce.OrderApi\OrderApi.Presentation\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
 A:\Microservice Projects\Ecommerce.OrderApi\OrderApi.Presentation\bin\Debug\net9.0\Mono.TextTemplating.dll
+A:\Microservice Projects\Ecommerce.OrderApi\OrderApi.Presentation\bin\Debug\net9.0\Newtonsoft.Json.dll
+A:\Microservice Projects\Ecommerce.OrderApi\OrderApi.Presentation\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
 A:\Microservice Projects\Ecommerce.OrderApi\OrderApi.Presentation\bin\Debug\net9.0\Polly.Core.dll
 A:\Microservice Projects\Ecommerce.OrderApi\OrderApi.Presentation\bin\Debug\net9.0\Polly.Extensions.dll
 A:\Microservice Projects\Ecommerce.OrderApi\OrderApi.Presentation\bin\Debug\net9.0\Polly.RateLimiting.dll
@@ -195,3 +200,6 @@ A:\Microservice Projects\Ecommerce.OrderApi\OrderApi.Presentation\obj\Debug\net9
 A:\Microservice Projects\Ecommerce.OrderApi\OrderApi.Presentation\obj\Debug\net9.0\OrderApi.Presentation.pdb
 A:\Microservice Projects\Ecommerce.OrderApi\OrderApi.Presentation\obj\Debug\net9.0\OrderApi.Presentation.genruntimeconfig.cache
 A:\Microservice Projects\Ecommerce.OrderApi\OrderApi.Presentation\obj\Debug\net9.0\ref\OrderApi.Presentation.dll
+A:\Microservice Projects\Ecommerce.OrderApi\OrderApi.Presentation\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+A:\Microservice Projects\Ecommerce.OrderApi\OrderApi.Presentation\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+A:\Microservice Projects\Ecommerce.OrderApi\OrderApi.Presentation\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll

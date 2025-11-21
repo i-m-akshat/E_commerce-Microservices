@@ -23,7 +23,7 @@ namespace OrderApi.Application.Services
         {
             //call product api using httpclient 
             //redirect this call to the api gateway since product api is not responding to outsiders.
-            var getProduct = await _httpClient.GetAsync($"/api/products/{id}");
+            var getProduct = await _httpClient.GetAsync($"/api/Products/{id}");
             if (!getProduct.IsSuccessStatusCode)
             {
                 return null!;
@@ -37,7 +37,7 @@ namespace OrderApi.Application.Services
         {
             //call user api using httpclient 
             //redirect this call to the api gateway since user api is not responding to outsiders.
-            var getuser = await _httpClient.GetAsync($"/api/users/{userId}");
+            var getuser = await _httpClient.GetAsync($"http://localhost:5267/api/authentication/{userId}");
             if (!getuser.IsSuccessStatusCode)
             {
                 return null!;
@@ -68,10 +68,10 @@ namespace OrderApi.Application.Services
             return new OrderDetailsDTO(order.Id,
                 productDTO.id,
                 order.ClientID,
-                appUserDTO.email,
-                appUserDTO.telephoneNumber,
-                appUserDTO.addresss,
-                productDTO.ProductName,
+                appUserDTO?.email!,
+                appUserDTO?.telephoneNumber!,
+                appUserDTO?.addresss!,
+                productDTO.Name,
                 order.PurchaseQuantity,
                 productDTO.Price,
                 productDTO.Price*order.PurchaseQuantity,

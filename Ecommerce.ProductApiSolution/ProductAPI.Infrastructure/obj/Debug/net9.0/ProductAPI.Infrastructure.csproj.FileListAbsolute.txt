@@ -17,3 +17,4 @@ A:\Microservice Projects\Ecommerce.ProductApiSolution\ProductAPI.Infrastructure\
 A:\Microservice Projects\Ecommerce.ProductApiSolution\ProductAPI.Infrastructure\obj\Debug\net9.0\refint\ProductAPI.Infrastructure.dll
 A:\Microservice Projects\Ecommerce.ProductApiSolution\ProductAPI.Infrastructure\obj\Debug\net9.0\ProductAPI.Infrastructure.pdb
 A:\Microservice Projects\Ecommerce.ProductApiSolution\ProductAPI.Infrastructure\obj\Debug\net9.0\ref\ProductAPI.Infrastructure.dll
+A:\Microservice Projects\Ecommerce.ProductApiSolution\ProductAPI.Infrastructure\obj\Debug\net9.0\ProductAPI.Infrastructure.sourcelink.json
