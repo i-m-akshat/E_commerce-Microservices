@@ -1,0 +1,39 @@
+{
+  "Routes": [
+    //JWT Authentication
+    {
+      "DownstreamPathTemplate": "/api/authentication/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5000
+        }
+      ],
+      "UpstreamPathTemplate": "/api/authentication/{everything}",
+      "UpstreamHttpMethod": [ "GET", "POST" ],
+      "RateLimitOptions": {
+        "ClientWhitelist": [],
+        "EnableRateLimiting": true,
+        "Period": "60s",
+        "Limit": 1,
+        "PeriodTimespan": 10
+      }
+    },
+    //product api
+    //GET METHOD
+    {
+
+    }
+
+  ],
+  "GlobalConfiguration": {
+
+    "BaseUrl": "https://localhost:5003",
+    "RateLimitOptions": {
+      "QuotaExceeededMessage": "You are overwhelming me with multiple request.  Relax small!"
+
+    }
+
+  }
+}
