@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{A31466EE-FA5A-4BEB-8B04-9D8F31E0B91B}|ProductAPI.Presentation\\ProductAPI.Presentation.csproj|solutionrelative:productapi.presentation\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A31466EE-FA5A-4BEB-8B04-9D8F31E0B91B}|ProductAPI.Presentation\\ProductAPI.Presentation.csproj|a:\\microservice projects\\ecommerce.productapisolution\\productapi.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A31466EE-FA5A-4BEB-8B04-9D8F31E0B91B}|ProductAPI.Presentation\\ProductAPI.Presentation.csproj|solutionrelative:productapi.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{43A81D55-5590-4114-9FB8-8FECA2740A7E}|ProductAPI.Infrastructure\\ProductAPI.Infrastructure.csproj|a:\\microservice projects\\ecommerce.productapisolution\\productapi.infrastructure\\repositories\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43A81D55-5590-4114-9FB8-8FECA2740A7E}|ProductAPI.Infrastructure\\ProductAPI.Infrastructure.csproj|solutionrelative:productapi.infrastructure\\repositories\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -59,10 +63,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{43A81D55-5590-4114-9FB8-8FECA2740A7E}|ProductAPI.Infrastructure\\ProductAPI.Infrastructure.csproj|a:\\microservice projects\\ecommerce.productapisolution\\productapi.infrastructure\\productapi.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{43A81D55-5590-4114-9FB8-8FECA2740A7E}|ProductAPI.Infrastructure\\ProductAPI.Infrastructure.csproj|solutionrelative:productapi.infrastructure\\productapi.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A31466EE-FA5A-4BEB-8B04-9D8F31E0B91B}|ProductAPI.Presentation\\ProductAPI.Presentation.csproj|a:\\microservice projects\\ecommerce.productapisolution\\productapi.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A31466EE-FA5A-4BEB-8B04-9D8F31E0B91B}|ProductAPI.Presentation\\ProductAPI.Presentation.csproj|solutionrelative:productapi.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -72,7 +72,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -88,33 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "A:\\Microservice Projects\\Ecommerce.ProductApiSolution\\ProductAPI.Presentation\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "ProductAPI.Presentation\\Controllers\\ProductsController.cs",
-              "ToolTip": "A:\\Microservice Projects\\Ecommerce.ProductApiSolution\\ProductAPI.Presentation\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "ProductAPI.Presentation\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACkAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-02T06:02:41.085Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GlobalExceptionHandler.cs",
-              "DocumentMoniker": "A:\\Microservice Projects\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\Middleware\\GlobalExceptionHandler.cs",
-              "RelativeDocumentMoniker": "..\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\Middleware\\GlobalExceptionHandler.cs",
-              "ToolTip": "A:\\Microservice Projects\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\Middleware\\GlobalExceptionHandler.cs",
-              "RelativeToolTip": "..\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\Middleware\\GlobalExceptionHandler.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAtwEUAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-02T06:55:16.531Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ListenToOnlyApiGateway.cs",
               "DocumentMoniker": "A:\\Microservice Projects\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\Middleware\\ListenToOnlyApiGateway.cs",
               "RelativeDocumentMoniker": "..\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\Middleware\\ListenToOnlyApiGateway.cs",
@@ -126,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "IGenericInterface.cs",
               "DocumentMoniker": "A:\\Microservice Projects\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\Interfaces\\IGenericInterface.cs",
               "RelativeDocumentMoniker": "..\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\Interfaces\\IGenericInterface.cs",
@@ -138,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "A:\\Microservice Projects\\Ecommerce.ProductApiSolution\\ProductAPI.Presentation\\appsettings.json",
               "RelativeDocumentMoniker": "ProductAPI.Presentation\\appsettings.json",
@@ -150,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ProductDbContext.cs",
               "DocumentMoniker": "A:\\Microservice Projects\\Ecommerce.ProductApiSolution\\ProductAPI.Infrastructure\\Data\\ProductDbContext.cs",
               "RelativeDocumentMoniker": "ProductAPI.Infrastructure\\Data\\ProductDbContext.cs",
@@ -162,7 +136,45 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\Microservice Projects\\Ecommerce.ProductApiSolution\\ProductAPI.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "ProductAPI.Presentation\\Program.cs",
+              "ToolTip": "A:\\Microservice Projects\\Ecommerce.ProductApiSolution\\ProductAPI.Presentation\\Program.cs",
+              "RelativeToolTip": "ProductAPI.Presentation\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T06:00:56.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "A:\\Microservice Projects\\Ecommerce.ProductApiSolution\\ProductAPI.Presentation\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductAPI.Presentation\\Controllers\\ProductsController.cs",
+              "ToolTip": "A:\\Microservice Projects\\Ecommerce.ProductApiSolution\\ProductAPI.Presentation\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductAPI.Presentation\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T06:02:41.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "GlobalExceptionHandler.cs",
+              "DocumentMoniker": "A:\\Microservice Projects\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\Middleware\\GlobalExceptionHandler.cs",
+              "RelativeDocumentMoniker": "..\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\Middleware\\GlobalExceptionHandler.cs",
+              "ToolTip": "A:\\Microservice Projects\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\Middleware\\GlobalExceptionHandler.cs",
+              "RelativeToolTip": "..\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\Middleware\\GlobalExceptionHandler.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAtwEUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T06:55:16.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ProductDTO.cs",
               "DocumentMoniker": "A:\\Microservice Projects\\Ecommerce.ProductApiSolution\\ProductAPI.Application\\DTOs\\ProductDTO.cs",
               "RelativeDocumentMoniker": "ProductAPI.Application\\DTOs\\ProductDTO.cs",
@@ -170,12 +182,11 @@
               "RelativeToolTip": "ProductAPI.Application\\DTOs\\ProductDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-02T07:12:23.526Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-02T07:12:23.526Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ProductRepo.cs",
               "DocumentMoniker": "A:\\Microservice Projects\\Ecommerce.ProductApiSolution\\ProductAPI.Infrastructure\\Repositories\\ProductRepo.cs",
               "RelativeDocumentMoniker": "ProductAPI.Infrastructure\\Repositories\\ProductRepo.cs",
@@ -183,12 +194,11 @@
               "RelativeToolTip": "ProductAPI.Infrastructure\\Repositories\\ProductRepo.cs",
               "ViewState": "AgIAADgAAAAAAAAAAAAtwE8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-02T07:15:08.117Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-02T07:15:08.117Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ServiceContainer.cs",
               "DocumentMoniker": "A:\\Microservice Projects\\Ecommerce.ProductApiSolution\\ProductAPI.Infrastructure\\DependencyInjection\\ServiceContainer.cs",
               "RelativeDocumentMoniker": "ProductAPI.Infrastructure\\DependencyInjection\\ServiceContainer.cs",
@@ -200,7 +210,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "IProduct.cs",
               "DocumentMoniker": "A:\\Microservice Projects\\Ecommerce.ProductApiSolution\\ProductAPI.Application\\Interfaces\\IProduct.cs",
               "RelativeDocumentMoniker": "ProductAPI.Application\\Interfaces\\IProduct.cs",
@@ -208,12 +218,11 @@
               "RelativeToolTip": "ProductAPI.Application\\Interfaces\\IProduct.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T05:23:30.276Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-21T05:23:30.276Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "launchSettings.json",
               "DocumentMoniker": "A:\\Microservice Projects\\Ecommerce.ProductApiSolution\\ProductAPI.Presentation\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ProductAPI.Presentation\\Properties\\launchSettings.json",
@@ -225,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "SharedServiceContainer.cs",
               "DocumentMoniker": "A:\\Microservice Projects\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
               "RelativeDocumentMoniker": "..\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
@@ -237,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "JWTAuthenticationScheme.cs",
               "DocumentMoniker": "A:\\Microservice Projects\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\DependencyInjection\\JWTAuthenticationScheme.cs",
               "RelativeDocumentMoniker": "..\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\DependencyInjection\\JWTAuthenticationScheme.cs",
@@ -249,7 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "LogException.cs",
               "DocumentMoniker": "A:\\Microservice Projects\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\Logs\\LogException.cs",
               "RelativeDocumentMoniker": "..\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\Logs\\LogException.cs",
@@ -262,18 +271,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "Program.cs",
-              "DocumentMoniker": "A:\\Microservice Projects\\Ecommerce.ProductApiSolution\\ProductAPI.Presentation\\Program.cs",
-              "RelativeDocumentMoniker": "ProductAPI.Presentation\\Program.cs",
-              "ToolTip": "A:\\Microservice Projects\\Ecommerce.ProductApiSolution\\ProductAPI.Presentation\\Program.cs",
-              "RelativeToolTip": "ProductAPI.Presentation\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-02T06:00:56.856Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
               "Title": "ProductAPI.Infrastructure.csproj",
               "DocumentMoniker": "A:\\Microservice Projects\\Ecommerce.ProductApiSolution\\ProductAPI.Infrastructure\\ProductAPI.Infrastructure.csproj",
               "RelativeDocumentMoniker": "ProductAPI.Infrastructure\\ProductAPI.Infrastructure.csproj",
@@ -285,7 +282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Product.cs",
               "DocumentMoniker": "A:\\Microservice Projects\\Ecommerce.ProductApiSolution\\ProductAPI.Domain\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "ProductAPI.Domain\\Entities\\Product.cs",

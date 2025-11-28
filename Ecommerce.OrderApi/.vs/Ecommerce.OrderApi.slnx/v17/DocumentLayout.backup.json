@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "A:\\Microservice Projects\\Ecommerce.OrderApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2D7A29EF-F109-BE97-8E42-F043FE4B87E8}|OrderApi.Infrastructure\\OrderApi.Infrastructure.csproj|a:\\microservice projects\\ecommerce.orderapi\\orderapi.infrastructure\\data\\orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7A29EF-F109-BE97-8E42-F043FE4B87E8}|OrderApi.Infrastructure\\OrderApi.Infrastructure.csproj|solutionrelative:orderapi.infrastructure\\data\\orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7A29EF-F109-BE97-8E42-F043FE4B87E8}|OrderApi.Infrastructure\\OrderApi.Infrastructure.csproj|a:\\microservice projects\\ecommerce.orderapi\\orderapi.infrastructure\\dependencyinjection\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7A29EF-F109-BE97-8E42-F043FE4B87E8}|OrderApi.Infrastructure\\OrderApi.Infrastructure.csproj|solutionrelative:orderapi.infrastructure\\dependencyinjection\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9E2A9655-7246-A8FD-CD97-F6AB85C24EA0}|OrderApi.Application\\OrderApi.Application.csproj|a:\\microservice projects\\ecommerce.orderapi\\orderapi.application\\dtos\\conversions\\orderconversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E2A9655-7246-A8FD-CD97-F6AB85C24EA0}|OrderApi.Application\\OrderApi.Application.csproj|solutionrelative:orderapi.application\\dtos\\conversions\\orderconversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,11 +22,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "OrderDbContext.cs",
+              "DocumentMoniker": "A:\\Microservice Projects\\Ecommerce.OrderApi\\OrderApi.Infrastructure\\Data\\OrderDbContext.cs",
+              "RelativeDocumentMoniker": "OrderApi.Infrastructure\\Data\\OrderDbContext.cs",
+              "ToolTip": "A:\\Microservice Projects\\Ecommerce.OrderApi\\OrderApi.Infrastructure\\Data\\OrderDbContext.cs",
+              "RelativeToolTip": "OrderApi.Infrastructure\\Data\\OrderDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T04:50:12.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceContainer.cs",
+              "DocumentMoniker": "A:\\Microservice Projects\\Ecommerce.OrderApi\\OrderApi.Infrastructure\\DependencyInjection\\ServiceContainer.cs",
+              "RelativeDocumentMoniker": "OrderApi.Infrastructure\\DependencyInjection\\ServiceContainer.cs",
+              "ToolTip": "A:\\Microservice Projects\\Ecommerce.OrderApi\\OrderApi.Infrastructure\\DependencyInjection\\ServiceContainer.cs",
+              "RelativeToolTip": "OrderApi.Infrastructure\\DependencyInjection\\ServiceContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T04:50:02.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "OrderConversion.cs",
               "DocumentMoniker": "A:\\Microservice Projects\\Ecommerce.OrderApi\\OrderApi.Application\\DTOs\\Conversions\\OrderConversion.cs",
               "RelativeDocumentMoniker": "OrderApi.Application\\DTOs\\Conversions\\OrderConversion.cs",
@@ -28,14 +74,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-13T07:49:45.774Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             }
           ]
         }

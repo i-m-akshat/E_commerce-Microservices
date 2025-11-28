@@ -1,7 +1,5 @@
 ﻿using Azure;
 using Ecommerce.SharedLibrary.Logs;
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 using ProductAPI.Application.DTOs;
 using ProductAPI.Application.DTOs.Conversions;
@@ -13,6 +11,8 @@ namespace ProductAPI.Presentation.Controllers
     [ApiController]
     public class ProductsController(IProduct _service) : ControllerBase
     {
+        //[FromServices]
+        //public IProduct _service { get; set; }//property injection 
         //private readonly IProduct _service;
         //public ProductsController(IProduct productService)
         //{
