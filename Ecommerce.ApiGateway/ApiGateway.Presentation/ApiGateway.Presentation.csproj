@@ -11,4 +11,8 @@
     <PackageReference Include="Ocelot.Cache.CacheManager" Version="24.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\Ecommerce.SharedLibrary\Ecommerce.SharedLibrary\Ecommerce.SharedLibrary.csproj" />
+  </ItemGroup>
+
 </Project>

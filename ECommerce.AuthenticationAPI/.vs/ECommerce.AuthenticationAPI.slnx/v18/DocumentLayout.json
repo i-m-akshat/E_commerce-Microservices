@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "A:\\Microservice Projects\\ECommerce.AuthenticationAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{29F2BDF6-A10B-CEC9-F542-61A2609D946C}|AuthenticationAPI.Presentation\\AuthenticationAPI.Presentation.csproj|a:\\microservice projects\\ecommerce.authenticationapi\\authenticationapi.presentation\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F2BDF6-A10B-CEC9-F542-61A2609D946C}|AuthenticationAPI.Presentation\\AuthenticationAPI.Presentation.csproj|solutionrelative:authenticationapi.presentation\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F2BDF6-A10B-CEC9-F542-61A2609D946C}|AuthenticationAPI.Presentation\\AuthenticationAPI.Presentation.csproj|a:\\microservice projects\\ecommerce.authenticationapi\\authenticationapi.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29F2BDF6-A10B-CEC9-F542-61A2609D946C}|AuthenticationAPI.Presentation\\AuthenticationAPI.Presentation.csproj|solutionrelative:authenticationapi.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F2BDF6-A10B-CEC9-F542-61A2609D946C}|AuthenticationAPI.Presentation\\AuthenticationAPI.Presentation.csproj|a:\\microservice projects\\ecommerce.authenticationapi\\authenticationapi.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F2BDF6-A10B-CEC9-F542-61A2609D946C}|AuthenticationAPI.Presentation\\AuthenticationAPI.Presentation.csproj|solutionrelative:authenticationapi.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{43E3264D-A0DD-AEEE-C6C7-000F4EF56BA7}|AuthenticationAPI.Domain\\AuthenticationAPI.Domain.csproj|a:\\microservice projects\\ecommerce.authenticationapi\\authenticationapi.domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43E3264D-A0DD-AEEE-C6C7-000F4EF56BA7}|AuthenticationAPI.Domain\\AuthenticationAPI.Domain.csproj|solutionrelative:authenticationapi.domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -32,14 +44,6 @@
       "AbsoluteMoniker": "D:0:0:{8944BA0E-A5E7-A44E-C02A-3F1368577666}|..\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary.csproj|a:\\microservice projects\\ecommerce.sharedlibrary\\ecommerce.sharedlibrary\\responses\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29F2BDF6-A10B-CEC9-F542-61A2609D946C}|AuthenticationAPI.Presentation\\AuthenticationAPI.Presentation.csproj|a:\\microservice projects\\ecommerce.authenticationapi\\authenticationapi.presentation\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29F2BDF6-A10B-CEC9-F542-61A2609D946C}|AuthenticationAPI.Presentation\\AuthenticationAPI.Presentation.csproj|solutionrelative:authenticationapi.presentation\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29F2BDF6-A10B-CEC9-F542-61A2609D946C}|AuthenticationAPI.Presentation\\AuthenticationAPI.Presentation.csproj|a:\\microservice projects\\ecommerce.authenticationapi\\authenticationapi.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29F2BDF6-A10B-CEC9-F542-61A2609D946C}|AuthenticationAPI.Presentation\\AuthenticationAPI.Presentation.csproj|solutionrelative:authenticationapi.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{29F2BDF6-A10B-CEC9-F542-61A2609D946C}|AuthenticationAPI.Presentation\\AuthenticationAPI.Presentation.csproj|a:\\microservice projects\\ecommerce.authenticationapi\\authenticationapi.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{29F2BDF6-A10B-CEC9-F542-61A2609D946C}|AuthenticationAPI.Presentation\\AuthenticationAPI.Presentation.csproj|solutionrelative:authenticationapi.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -63,7 +67,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -79,33 +83,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "JWTAuthenticationScheme.cs",
-              "DocumentMoniker": "A:\\Microservice Projects\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\DependencyInjection\\JWTAuthenticationScheme.cs",
-              "RelativeDocumentMoniker": "..\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\DependencyInjection\\JWTAuthenticationScheme.cs",
-              "ToolTip": "A:\\Microservice Projects\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\DependencyInjection\\JWTAuthenticationScheme.cs",
-              "RelativeToolTip": "..\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\DependencyInjection\\JWTAuthenticationScheme.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T13:12:21.663Z",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "A:\\Microservice Projects\\ECommerce.AuthenticationAPI\\AuthenticationAPI.Presentation\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AuthenticationAPI.Presentation\\Properties\\launchSettings.json",
+              "ToolTip": "A:\\Microservice Projects\\ECommerce.AuthenticationAPI\\AuthenticationAPI.Presentation\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AuthenticationAPI.Presentation\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-10T05:37:53.849Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SharedServiceContainer.cs",
-              "DocumentMoniker": "A:\\Microservice Projects\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
-              "RelativeDocumentMoniker": "..\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
-              "ToolTip": "A:\\Microservice Projects\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
-              "RelativeToolTip": "..\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T10:07:05.258Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "AuthenticationDbContext.cs",
               "DocumentMoniker": "A:\\Microservice Projects\\ECommerce.AuthenticationAPI\\AuthenticationAPI.Infrastructure\\Data\\AuthenticationDbContext.cs",
               "RelativeDocumentMoniker": "AuthenticationAPI.Infrastructure\\Data\\AuthenticationDbContext.cs",
@@ -113,12 +104,11 @@
               "RelativeToolTip": "AuthenticationAPI.Infrastructure\\Data\\AuthenticationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T09:53:20.226Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-21T09:53:20.226Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "A:\\Microservice Projects\\ECommerce.AuthenticationAPI\\AuthenticationAPI.Presentation\\appsettings.json",
               "RelativeDocumentMoniker": "AuthenticationAPI.Presentation\\appsettings.json",
@@ -130,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ServiceContainer.cs",
               "DocumentMoniker": "A:\\Microservice Projects\\ECommerce.AuthenticationAPI\\AuthenticationAPI.Infrastructure\\DependencyInjection\\ServiceContainer.cs",
               "RelativeDocumentMoniker": "AuthenticationAPI.Infrastructure\\DependencyInjection\\ServiceContainer.cs",
@@ -142,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "GetUserDTO.cs",
               "DocumentMoniker": "A:\\Microservice Projects\\ECommerce.AuthenticationAPI\\AuthenticationAPI.Application\\DTOs\\GetUserDTO.cs",
               "RelativeDocumentMoniker": "AuthenticationAPI.Application\\DTOs\\GetUserDTO.cs",
@@ -150,12 +140,11 @@
               "RelativeToolTip": "AuthenticationAPI.Application\\DTOs\\GetUserDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T07:38:15.771Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-21T07:38:15.771Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "AppUser.cs",
               "DocumentMoniker": "A:\\Microservice Projects\\ECommerce.AuthenticationAPI\\AuthenticationAPI.Domain\\Entities\\AppUser.cs",
               "RelativeDocumentMoniker": "AuthenticationAPI.Domain\\Entities\\AppUser.cs",
@@ -168,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "AppUserDTO.cs",
               "DocumentMoniker": "A:\\Microservice Projects\\ECommerce.AuthenticationAPI\\AuthenticationAPI.Application\\DTOs\\AppUserDTO.cs",
               "RelativeDocumentMoniker": "AuthenticationAPI.Application\\DTOs\\AppUserDTO.cs",
@@ -176,12 +165,11 @@
               "RelativeToolTip": "AuthenticationAPI.Application\\DTOs\\AppUserDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T07:19:27.431Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-21T07:19:27.431Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "LoginDTO.cs",
               "DocumentMoniker": "A:\\Microservice Projects\\ECommerce.AuthenticationAPI\\AuthenticationAPI.Application\\DTOs\\LoginDTO.cs",
               "RelativeDocumentMoniker": "AuthenticationAPI.Application\\DTOs\\LoginDTO.cs",
@@ -189,12 +177,36 @@
               "RelativeToolTip": "AuthenticationAPI.Application\\DTOs\\LoginDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T07:20:06.078Z",
+              "WhenOpened": "2025-11-21T07:20:06.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "A:\\Microservice Projects\\ECommerce.AuthenticationAPI\\AuthenticationAPI.Presentation\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "AuthenticationAPI.Presentation\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "A:\\Microservice Projects\\ECommerce.AuthenticationAPI\\AuthenticationAPI.Presentation\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "AuthenticationAPI.Presentation\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T09:41:31.168Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "SharedServiceContainer.cs",
+              "DocumentMoniker": "A:\\Microservice Projects\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
+              "RelativeDocumentMoniker": "..\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
+              "ToolTip": "A:\\Microservice Projects\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
+              "RelativeToolTip": "..\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T10:07:05.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "A:\\Microservice Projects\\ECommerce.AuthenticationAPI\\AuthenticationAPI.Presentation\\Program.cs",
               "RelativeDocumentMoniker": "AuthenticationAPI.Presentation\\Program.cs",
@@ -202,23 +214,24 @@
               "RelativeToolTip": "AuthenticationAPI.Presentation\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T09:37:25.119Z"
+              "WhenOpened": "2025-11-21T09:37:25.119Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "AuthenticationController.cs",
-              "DocumentMoniker": "A:\\Microservice Projects\\ECommerce.AuthenticationAPI\\AuthenticationAPI.Presentation\\Controllers\\AuthenticationController.cs",
-              "RelativeDocumentMoniker": "AuthenticationAPI.Presentation\\Controllers\\AuthenticationController.cs",
-              "ToolTip": "A:\\Microservice Projects\\ECommerce.AuthenticationAPI\\AuthenticationAPI.Presentation\\Controllers\\AuthenticationController.cs",
-              "RelativeToolTip": "AuthenticationAPI.Presentation\\Controllers\\AuthenticationController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Title": "JWTAuthenticationScheme.cs",
+              "DocumentMoniker": "A:\\Microservice Projects\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\DependencyInjection\\JWTAuthenticationScheme.cs",
+              "RelativeDocumentMoniker": "..\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\DependencyInjection\\JWTAuthenticationScheme.cs",
+              "ToolTip": "A:\\Microservice Projects\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\DependencyInjection\\JWTAuthenticationScheme.cs",
+              "RelativeToolTip": "..\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\DependencyInjection\\JWTAuthenticationScheme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T09:41:31.168Z"
+              "WhenOpened": "2025-11-28T13:12:21.663Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "UserRepo.cs",
               "DocumentMoniker": "A:\\Microservice Projects\\ECommerce.AuthenticationAPI\\AuthenticationAPI.Infrastructure\\Respository\\UserRepo.cs",
               "RelativeDocumentMoniker": "AuthenticationAPI.Infrastructure\\Respository\\UserRepo.cs",
@@ -230,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Response.cs",
               "DocumentMoniker": "A:\\Microservice Projects\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\Responses\\Response.cs",
               "RelativeDocumentMoniker": "..\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\Responses\\Response.cs",
@@ -242,7 +255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "IUser.cs",
               "DocumentMoniker": "A:\\Microservice Projects\\ECommerce.AuthenticationAPI\\AuthenticationAPI.Application\\Interfaces\\IUser.cs",
               "RelativeDocumentMoniker": "AuthenticationAPI.Application\\Interfaces\\IUser.cs",

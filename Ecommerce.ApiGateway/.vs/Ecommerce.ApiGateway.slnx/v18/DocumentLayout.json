@@ -3,19 +3,23 @@
   "WorkspaceRootPath": "A:\\Microservice Projects\\Ecommerce.ApiGateway\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{54F24967-F9CE-43A5-8750-BE254046E94E}|ApiGateway.Presentation\\ApiGateway.Presentation.csproj|a:\\microservice projects\\ecommerce.apigateway\\apigateway.presentation\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{54F24967-F9CE-43A5-8750-BE254046E94E}|ApiGateway.Presentation\\ApiGateway.Presentation.csproj|solutionrelative:apigateway.presentation\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{5B43F476-77F4-1663-07E3-F867459623B5}|ApiGateway.Presentation\\ApiGateway.Presentation.csproj|a:\\microservice projects\\ecommerce.apigateway\\apigateway.presentation\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B43F476-77F4-1663-07E3-F867459623B5}|ApiGateway.Presentation\\ApiGateway.Presentation.csproj|solutionrelative:apigateway.presentation\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54F24967-F9CE-43A5-8750-BE254046E94E}|ApiGateway.Presentation\\ApiGateway.Presentation.csproj|a:\\microservice projects\\ecommerce.apigateway\\apigateway.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{54F24967-F9CE-43A5-8750-BE254046E94E}|ApiGateway.Presentation\\ApiGateway.Presentation.csproj|solutionrelative:apigateway.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{5B43F476-77F4-1663-07E3-F867459623B5}|ApiGateway.Presentation\\ApiGateway.Presentation.csproj|a:\\microservice projects\\ecommerce.apigateway\\apigateway.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B43F476-77F4-1663-07E3-F867459623B5}|ApiGateway.Presentation\\ApiGateway.Presentation.csproj|solutionrelative:apigateway.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54F24967-F9CE-43A5-8750-BE254046E94E}|ApiGateway.Presentation\\ApiGateway.Presentation.csproj|a:\\microservice projects\\ecommerce.apigateway\\apigateway.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{54F24967-F9CE-43A5-8750-BE254046E94E}|ApiGateway.Presentation\\ApiGateway.Presentation.csproj|solutionrelative:apigateway.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{5B43F476-77F4-1663-07E3-F867459623B5}|ApiGateway.Presentation\\ApiGateway.Presentation.csproj|a:\\microservice projects\\ecommerce.apigateway\\apigateway.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B43F476-77F4-1663-07E3-F867459623B5}|ApiGateway.Presentation\\ApiGateway.Presentation.csproj|solutionrelative:apigateway.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8944BA0E-A5E7-A44E-C02A-3F1368577666}|..\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary.csproj|a:\\microservice projects\\ecommerce.sharedlibrary\\ecommerce.sharedlibrary\\dependencyinjection\\jwtauthenticationscheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B43F476-77F4-1663-07E3-F867459623B5}|ApiGateway.Presentation\\ApiGateway.Presentation.csproj|a:\\microservice projects\\ecommerce.apigateway\\apigateway.presentation\\middlewares\\attachsignaturetorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B43F476-77F4-1663-07E3-F867459623B5}|ApiGateway.Presentation\\ApiGateway.Presentation.csproj|solutionrelative:apigateway.presentation\\middlewares\\attachsignaturetorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,7 +29,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -41,28 +45,41 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AttachSignatureToRequest.cs",
+              "DocumentMoniker": "A:\\Microservice Projects\\Ecommerce.ApiGateway\\ApiGateway.Presentation\\Middlewares\\AttachSignatureToRequest.cs",
+              "RelativeDocumentMoniker": "ApiGateway.Presentation\\Middlewares\\AttachSignatureToRequest.cs",
+              "ToolTip": "A:\\Microservice Projects\\Ecommerce.ApiGateway\\ApiGateway.Presentation\\Middlewares\\AttachSignatureToRequest.cs",
+              "RelativeToolTip": "ApiGateway.Presentation\\Middlewares\\AttachSignatureToRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T05:29:21.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\Microservice Projects\\Ecommerce.ApiGateway\\ApiGateway.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "ApiGateway.Presentation\\Program.cs",
+              "ToolTip": "A:\\Microservice Projects\\Ecommerce.ApiGateway\\ApiGateway.Presentation\\Program.cs",
+              "RelativeToolTip": "ApiGateway.Presentation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T05:22:04.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ocelot.json",
               "DocumentMoniker": "A:\\Microservice Projects\\Ecommerce.ApiGateway\\ApiGateway.Presentation\\ocelot.json",
               "RelativeDocumentMoniker": "ApiGateway.Presentation\\ocelot.json",
               "ToolTip": "A:\\Microservice Projects\\Ecommerce.ApiGateway\\ApiGateway.Presentation\\ocelot.json",
               "RelativeToolTip": "ApiGateway.Presentation\\ocelot.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAAHwAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-11-28T13:27:48.337Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "A:\\Microservice Projects\\Ecommerce.ApiGateway\\ApiGateway.Presentation\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "ApiGateway.Presentation\\Properties\\launchSettings.json",
-              "ToolTip": "A:\\Microservice Projects\\Ecommerce.ApiGateway\\ApiGateway.Presentation\\Properties\\launchSettings.json",
-              "RelativeToolTip": "ApiGateway.Presentation\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-28T13:26:04.946Z",
               "EditorCaption": ""
             },
             {
@@ -73,7 +90,7 @@
               "RelativeDocumentMoniker": "ApiGateway.Presentation\\appsettings.json",
               "ToolTip": "A:\\Microservice Projects\\Ecommerce.ApiGateway\\ApiGateway.Presentation\\appsettings.json",
               "RelativeToolTip": "ApiGateway.Presentation\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-11-28T13:25:59.875Z",
               "EditorCaption": ""
@@ -86,7 +103,7 @@
               "RelativeDocumentMoniker": "..\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\DependencyInjection\\JWTAuthenticationScheme.cs",
               "ToolTip": "A:\\Microservice Projects\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\DependencyInjection\\JWTAuthenticationScheme.cs",
               "RelativeToolTip": "..\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\DependencyInjection\\JWTAuthenticationScheme.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABYAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-28T13:25:15.721Z",
               "EditorCaption": ""

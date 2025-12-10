@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "A:\\Microservice Projects\\Ecommerce.SharedLibrary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{89FBEB17-1585-45DF-8310-2BFA04CF983C}|Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary.csproj|a:\\microservice projects\\ecommerce.sharedlibrary\\ecommerce.sharedlibrary\\middleware\\listentoonlyapigateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89FBEB17-1585-45DF-8310-2BFA04CF983C}|Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary.csproj|solutionrelative:ecommerce.sharedlibrary\\middleware\\listentoonlyapigateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{89FBEB17-1585-45DF-8310-2BFA04CF983C}|Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary.csproj|a:\\microservice projects\\ecommerce.sharedlibrary\\ecommerce.sharedlibrary\\middleware\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{89FBEB17-1585-45DF-8310-2BFA04CF983C}|Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary.csproj|solutionrelative:ecommerce.sharedlibrary\\middleware\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89FBEB17-1585-45DF-8310-2BFA04CF983C}|Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary.csproj|a:\\microservice projects\\ecommerce.sharedlibrary\\ecommerce.sharedlibrary\\middleware\\listentoonlyapigateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89FBEB17-1585-45DF-8310-2BFA04CF983C}|Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary.csproj|solutionrelative:ecommerce.sharedlibrary\\middleware\\listentoonlyapigateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{89FBEB17-1585-45DF-8310-2BFA04CF983C}|Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary.csproj|a:\\microservice projects\\ecommerce.sharedlibrary\\ecommerce.sharedlibrary\\responses\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "GlobalExceptionHandler.cs",
               "DocumentMoniker": "A:\\Microservice Projects\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\Middleware\\GlobalExceptionHandler.cs",
               "RelativeDocumentMoniker": "Ecommerce.SharedLibrary\\Middleware\\GlobalExceptionHandler.cs",
@@ -90,11 +90,12 @@
               "RelativeToolTip": "Ecommerce.SharedLibrary\\Middleware\\GlobalExceptionHandler.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T13:39:42.804Z"
+              "WhenOpened": "2025-10-30T13:39:42.804Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ListenToOnlyApiGateway.cs",
               "DocumentMoniker": "A:\\Microservice Projects\\Ecommerce.SharedLibrary\\Ecommerce.SharedLibrary\\Middleware\\ListenToOnlyApiGateway.cs",
               "RelativeDocumentMoniker": "Ecommerce.SharedLibrary\\Middleware\\ListenToOnlyApiGateway.cs",

@@ -1,12 +1,14 @@
 ﻿using AuthenticationAPI.Application.DTOs;
 using AuthenticationAPI.Application.Interfaces;
 using Ecommerce.SharedLibrary.Responses;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace AuthenticationAPI.Presentation.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [AllowAnonymous]
     public class AuthenticationController(IUser _userInterface) : ControllerBase
     {
         [HttpPost("register")]
@@ -25,6 +27,7 @@ namespace AuthenticationAPI.Presentation.Controllers
             return result.Flag ? Ok(result) : BadRequest(Request);
         }
         [HttpGet(@"{id:int}")]
+        [Authorize]
         public async Task<ActionResult<GetUserDTO>> GetUser(int id)
         {
             if (id <= 0)

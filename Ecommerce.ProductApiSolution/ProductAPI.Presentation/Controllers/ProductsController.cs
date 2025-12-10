@@ -1,5 +1,6 @@
 ﻿using Azure;
 using Ecommerce.SharedLibrary.Logs;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using ProductAPI.Application.DTOs;
 using ProductAPI.Application.DTOs.Conversions;
@@ -9,6 +10,7 @@ namespace ProductAPI.Presentation.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [AllowAnonymous]
     public class ProductsController(IProduct _service) : ControllerBase
     {
         //[FromServices]
@@ -60,6 +62,7 @@ namespace ProductAPI.Presentation.Controllers
         }
 
         [HttpPost]
+        [Authorize(Roles = "Admin")]
         public async Task<ActionResult<Response>> CreateProduct(ProductDTO _product)
         {
             try
@@ -84,6 +87,7 @@ namespace ProductAPI.Presentation.Controllers
             }
         }
         [HttpPut]
+        [Authorize(Roles = "Admin")]
         public async Task<ActionResult<Response>> UpdateProduct(ProductDTO _product)
         {
             if (!ModelState.IsValid)
@@ -96,6 +100,7 @@ namespace ProductAPI.Presentation.Controllers
             return response.Flag is true ? Ok(response) : BadRequest(response);
         }
         [HttpDelete]
+        [Authorize(Roles = "Admin")]
         public async Task<ActionResult<Response>> DeleteProduct(int id)
         {
             var response = await _service.DeleteAsync(id);
